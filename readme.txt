@@ -5,7 +5,7 @@ We can clasify the files in different groups.
 Group 0:
     We use these files to link and obtain compiled executable files.
     -mk0.mk: Makefile 
-    -h0.h: Main header file. It contains the class headers as well as the main path.
+    -h0.h: Main header file. It contains the class headers as well as the main path (you should change this one to match your own).
 
 Group 1:
     The following files contain the backbone of the protocol. 
